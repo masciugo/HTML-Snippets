@@ -10,5 +10,5 @@
 </script>$2]]></content>
     <tabTrigger>ga</tabTrigger>
     <description>HTML - Google Analytics</description>
-    <scope>text.html</scope>
+    <scope>text.html,source.js</scope>
 </snippet>

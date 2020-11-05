@@ -7,5 +7,5 @@
 </ul>$5]]></content>
 	<tabTrigger>ul</tabTrigger>
     <description>HTML - Unordered list</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

@@ -4,5 +4,5 @@
 <![endif]-->$3]]></content>
     <tabTrigger>cond</tabTrigger>
     <description>HTML - Conditional comment</description>
-    <scope>text.html</scope>
+    <scope>text.html,source.js</scope>
 </snippet>

@@ -16,5 +16,5 @@
 </html>]]></content>
     <tabTrigger>doctype</tabTrigger>
     <description>HTML - HTML foundation</description>
-    <scope>text.html</scope>
+    <scope>text.html,source.js</scope>
 </snippet>

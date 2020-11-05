@@ -9,5 +9,5 @@
 </nav>$6]]></content>
 	<tabTrigger>nav</tabTrigger>
     <description>HTML - Navigation object (inline-block)</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

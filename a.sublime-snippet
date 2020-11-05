@@ -2,5 +2,5 @@
 	<content><![CDATA[<a href="$1">$2</a>$3]]></content>
 	<tabTrigger>a</tabTrigger>
 	<description>HTML - Anchor</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

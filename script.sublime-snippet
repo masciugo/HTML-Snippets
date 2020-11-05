@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="$1"></script>$2]]></content>
 	<tabTrigger>script</tabTrigger>
     <description>HTML - Script</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

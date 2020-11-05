@@ -7,5 +7,5 @@
 </ol>$5]]></content>
 	<tabTrigger>ol</tabTrigger>
     <description>HTML - Ordered list</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

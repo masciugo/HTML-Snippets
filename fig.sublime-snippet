@@ -5,5 +5,5 @@
 </figure>$4]]></content>
 	<tabTrigger>fig</tabTrigger>
     <description>HTML - Figure</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>

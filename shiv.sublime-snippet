@@ -4,5 +4,5 @@
 <![endif]-->]]></content>
     <tabTrigger>shiv</tabTrigger>
     <description>HTML - HTML5 shiv</description>
-    <scope>text.html</scope>
+    <scope>text.html,source.js</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[<style type="text/css">$1</style>]]></content>
 	<tabTrigger>css</tabTrigger>
     <description>HTML - Style tag</description>
-	<scope>text.html</scope>
+	<scope>text.html,source.js</scope>
 </snippet>
